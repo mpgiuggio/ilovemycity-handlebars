@@ -1,0 +1,17 @@
+{
+  "name": "ilovemycity-handlebars",
+  "version": "1.0.0",
+  "description": "i love my city app using handlebars",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "mpgiuggio@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {}
+}
